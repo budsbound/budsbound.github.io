@@ -5,11 +5,13 @@ A repository I learned how to create in accordance with the github Assignment
 To clone my repository I first made a github account, then downloaded the desktop github app then I copied the
 original repository on to my pc via the desktop app.
 
-#ABOUT ME
-##MY INTERESTS
-I think my main interest is *Warhammer 40k* as a hobby it has consumed me since early middleschool
-it has absolutely absurd sayings like
->Ruthlessness is the kindness of the wise.
+# ABOUT ME
+
+## MY INTERESTS
+
+I think my main interest is *Warhammer 40k*. As a hobby, it has consumed me since early middle school. It has absolutely absurd sayings like:
+
+> Ruthlessness is the kindness of the wise.
 
 It also has a pletory of [cool art](https://static.posters.cz/image/1300/affiches-et-posters/warhammer-40k-the-battle-of-baal-i100441.jpg)
 
