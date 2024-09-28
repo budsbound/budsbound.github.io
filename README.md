@@ -12,7 +12,8 @@ it has absolutely absurd sayings like
 
 It also has a pletory of [cool art](https://static.posters.cz/image/1300/affiches-et-posters/warhammer-40k-the-battle-of-baal-i100441.jpg)
 
-![mandatory pepe](https://images.search.yahoo.com/search/images;_ylt=AwrFRxR9NPhmriEEbEZXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210US91088G0&p=pepe+frog+coffee&fr=mcafee&th=404&tw=474&imgurl=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F713%2F364%2F284.jpg&rurl=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F2713364-pepe-the-frog&size=39KB&name=Pepo+coffee+%7C+Pepe+the+Frog+%7C+Know+Your+Meme&oid=1&h=584&w=684&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.93WvF2eVVoO_LuEZxNXv7wHaGU%26pid%3DApi&tt=Pepo+coffee+%7C+Pepe+the+Frog+%7C+Know+Your+Meme&sigr=11PtoRarjD8e&sigit=1i2JbWDglMJ6&sigi=SsEf3ge8RhZF&sign=ieGU91PO2P7Y&sigt=ieGU91PO2P7Y)
+[mandatory pepe][pepe]
+![pepe] (https://news-cdn.softpedia.com/images/news2/blizzard-is-forcing-overwatch-players-to-drop-pepe-the-frog-meme-520340-2.jpg)
 
 ##MY TOP WEBSITES
 - [Black library](https://www.blacklibrary.com/) - Great site I frequent to stay up to date
