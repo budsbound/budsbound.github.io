@@ -12,7 +12,7 @@ it has absolutely absurd sayings like
 
 It also has a pletory of [cool art](https://static.posters.cz/image/1300/affiches-et-posters/warhammer-40k-the-battle-of-baal-i100441.jpg)
 
-![pepe] (https://news-cdn.softpedia.com/images/news2/blizzard-is-forcing-overwatch-players-to-drop-pepe-the-frog-meme-520340-2.jpg)
+![pepe](https://news-cdn.softpedia.com/images/news2/blizzard-is-forcing-overwatch-players-to-drop-pepe-the-frog-meme-520340-2.jpg)
 
 ##MY TOP WEBSITES
 - [Black library](https://www.blacklibrary.com/) - Great site I frequent to stay up to date
